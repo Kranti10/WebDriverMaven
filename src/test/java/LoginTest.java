@@ -24,8 +24,7 @@ public class LoginTest {
         //WebDriver driver=new ChromeDriver();  
           
         driver= new ChromeDriver();
-           // Launch Website  
-       // driver.navigate().to("http://www.javatpoint.com/");  
+          
           
          //Maximize the browser  
           driver.manage().window().maximize();  
